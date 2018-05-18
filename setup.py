@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pysimpledmx",
-    version="0.1.0",
+    version="0.2.0",
     description="simple dmx control for the Enttec DMX USB Pro",
     license="GPLV3",
     author="c0z3n",
@@ -18,6 +18,8 @@ setup(
         "Programming Language :: Python",
         'Programming Language :: Python :: 2',
         "Programming Language :: Python :: 2.7",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.5",
         "Intended Audience :: Other Audience",
         "Topic :: Artistic Software",
     ]
